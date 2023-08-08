@@ -1,2 +1,2 @@
-# PrepCourse-Hennnry
-Repositorio de prueba modulo 2 henry
+Gian Santoni
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
